@@ -1,4 +1,4 @@
-[![Banner](./header.png)]([https://nouvelle-techno.fr](https://www.linkedin.com/in/ines-berber/))
+[![Banner](./header.png)]([https://www.linkedin.com/in/ines-berber/])
 
 
 [![LinkedIn Account](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ines-berber/)
