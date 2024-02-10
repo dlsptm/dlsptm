@@ -3,6 +3,8 @@
 
 [![LinkedIn Account](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ines-berber/)
 
+![Dlsptm](https://komarev.com/ghpvc/?username=your-github-dlsptm&color=green)
+
 
 - 🌱 I’m currently learning **Node.js & React.js**
 - ⭐️ next **Mongo.DB & Python**
