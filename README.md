@@ -3,8 +3,12 @@
 
 [![LinkedIn Account](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ines-berber/)
 
-![Dlsptm](https://komarev.com/ghpvc/?username=your-github-dlsptm&color=green)
-
+<a href="https://github.com/dlsptm">
+    <img src="https://komarev.com/ghpvc/?username=dlsptm" alt="page views" />
+  </a>
+  <a href="https://github.com/dlsptm">
+  <img src="https://img.shields.io/github/followers/dlsptm.svg?style=social&label=Follow&maxAge=2592000">
+    </a>
 
 - 🌱 I’m currently learning **Node.js & React.js**
 - ⭐️ next **Mongo.DB & Python**
