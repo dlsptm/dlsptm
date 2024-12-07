@@ -11,7 +11,7 @@
     </a>
 
 - 🌱 I’m currently learning **Python & React.js**
-- ⭐️ next **Mongo.DB & Django**
+- ⭐️ next **Angular & Java**
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Front-end</h4>
